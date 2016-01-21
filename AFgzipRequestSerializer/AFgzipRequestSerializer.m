@@ -21,7 +21,6 @@
 // THE SOFTWARE.
 
 #import "AFgzipRequestSerializer.h"
-
 #import "NSData+Godzippa.h"
 
 @interface AFgzipRequestSerializer ()
